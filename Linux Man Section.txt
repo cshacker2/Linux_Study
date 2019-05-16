@@ -1,0 +1,9 @@
+1 = User Commands
+2 = System Calls
+3 = Library Calls
+4 = Device 관련
+5 = File formats
+6 = 게임, 화면 보호기
+7 = 기타(etx)
+8 = 시스템 관리 명령어 데몬
+9 = 커널관련
